@@ -1,4 +1,4 @@
-# Bayesian Causal Learning and Assessment of the Brain Effective Connectomes with fMRI-DTI data
+# Brain Effective Connectome based on fMRI and DTI data: Bayesian Causal Learning and Assessment
 
 This repository contains four main folders;
 
