@@ -15,6 +15,6 @@ This repository contains four main folders;
 CITATION
 If you use this code, please cite the following paper:
 
-A. Bagheri, "Bayesian-Causal-Learning-and-Assessment-of-the-Brain-Effective-Connectomes-with-fMRI-DTI-data. IJCAI 2022.
+A. Bagheri, "Brain Effective Connectome based on fMRI and DTI data: Bayesian Causal Learning and Assessment". arxiv 2022.
 
 If you have problems or questions, do not hesitate to send an email to abdolmahdibagheri@ut.ac.ir
