@@ -11,7 +11,9 @@ This repository contains four main folders;
 4- The preprocessing folder contains the codes for running the preprocessing pipelines of DTI data for HCP data.
 
 In some parts of our codes, we  have used the following files:
+
 https://github.com/ignavierng/golem
+
 https://github.com/cmu-phil/tetrad
 
 
