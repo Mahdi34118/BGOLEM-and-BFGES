@@ -16,6 +16,3 @@ https://github.com/ignavierng/golem
 
 https://github.com/cmu-phil/tetrad
 
-
-
-If you have problems or questions, do not hesitate to send an email to abdolmahdibagheri@ut.ac.ir
